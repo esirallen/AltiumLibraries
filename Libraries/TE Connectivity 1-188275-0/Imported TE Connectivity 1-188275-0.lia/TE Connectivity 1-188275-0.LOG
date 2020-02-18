@@ -1,0 +1,72 @@
+PCAD Importer Log
+Project : TE Connectivity 1-188275-0.LibPkg
+
+Section : C:\Users\Public\Documents\Altium\AD18\Library\TE Connectivity 1-188275-0\TE Connectivity 1-188275-0.lia
+    Section : PCB Library - TE Connectivity 1-188275-0.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CONN10_1-188275- On Line 356
+            Warning - 1 : Skipping Token CONN10_1-1882700 On Line 477
+            Warning - 1 : Skipping Token CONN10_1-1882701 On Line 598
+            Warning - 1 : Skipping Token attachedSymbol On Line 709
+            Warning - 1 : Skipping Token attachedSymbol On Line 710
+            Warning - 1 : Skipping Token attachedSymbol On Line 711
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TE Connectivity 1-188275-0.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 10
+            Warning - 1 : Skipping Token multiLayer On Line 300
+            Warning - 1 : Skipping Token layerContents On Line 313
+            Warning - 1 : Skipping Token layerContents On Line 316
+            Warning - 1 : Skipping Token layerContents On Line 319
+            Warning - 1 : Skipping Token layerContents On Line 322
+            Warning - 1 : Skipping Token layerContents On Line 325
+            Warning - 1 : Skipping Token layerContents On Line 328
+            Warning - 1 : Skipping Token layerContents On Line 331
+            Warning - 1 : Skipping Token layerContents On Line 334
+            Warning - 1 : Skipping Token layerContents On Line 337
+            Warning - 1 : Skipping Token layerContents On Line 340
+            Warning - 1 : Skipping Token layerContents On Line 343
+            Warning - 1 : Skipping Token layerContents On Line 346
+            Warning - 1 : Skipping Token layerContents On Line 349
+            Warning - 1 : Skipping Token layerContents On Line 352
+            Warning - 1 : Skipping Token defaultPinDes On Line 364
+            Warning - 1 : Skipping Token defaultPinDes On Line 372
+            Warning - 1 : Skipping Token defaultPinDes On Line 380
+            Warning - 1 : Skipping Token defaultPinDes On Line 388
+            Warning - 1 : Skipping Token defaultPinDes On Line 396
+            Warning - 1 : Skipping Token defaultPinDes On Line 404
+            Warning - 1 : Skipping Token defaultPinDes On Line 412
+            Warning - 1 : Skipping Token defaultPinDes On Line 420
+            Warning - 1 : Skipping Token defaultPinDes On Line 428
+            Warning - 1 : Skipping Token defaultPinDes On Line 436
+            Warning - 1 : Skipping Token defaultPinDes On Line 485
+            Warning - 1 : Skipping Token defaultPinDes On Line 493
+            Warning - 1 : Skipping Token defaultPinDes On Line 501
+            Warning - 1 : Skipping Token defaultPinDes On Line 509
+            Warning - 1 : Skipping Token defaultPinDes On Line 517
+            Warning - 1 : Skipping Token defaultPinDes On Line 525
+            Warning - 1 : Skipping Token defaultPinDes On Line 533
+            Warning - 1 : Skipping Token defaultPinDes On Line 541
+            Warning - 1 : Skipping Token defaultPinDes On Line 549
+            Warning - 1 : Skipping Token defaultPinDes On Line 557
+            Warning - 1 : Skipping Token defaultPinDes On Line 606
+            Warning - 1 : Skipping Token defaultPinDes On Line 614
+            Warning - 1 : Skipping Token defaultPinDes On Line 622
+            Warning - 1 : Skipping Token defaultPinDes On Line 630
+            Warning - 1 : Skipping Token defaultPinDes On Line 638
+            Warning - 1 : Skipping Token defaultPinDes On Line 646
+            Warning - 1 : Skipping Token defaultPinDes On Line 654
+            Warning - 1 : Skipping Token defaultPinDes On Line 662
+            Warning - 1 : Skipping Token defaultPinDes On Line 670
+            Warning - 1 : Skipping Token defaultPinDes On Line 678
+        EndSection
+
+        Section : Generating SCH Library - TE Connectivity 1-188275-0.SchLib
+        EndSection
+    EndSection
+EndSection

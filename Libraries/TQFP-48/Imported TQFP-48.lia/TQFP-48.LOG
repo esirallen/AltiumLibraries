@@ -1,0 +1,12 @@
+PCAD Importer Log
+Project : TQFP-48.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\TQFP-48\TQFP-48.lia
+    Section : PCB Library - TQFP-48.PcbLib
+        Section : Load Messages
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+EndSection

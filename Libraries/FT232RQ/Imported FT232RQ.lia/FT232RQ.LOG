@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : FT232RQ.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\FT232RQ\FT232RQ.lia
+    Section : PCB Library - FT232RQ.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token FT232RQ-REEL On Line 176
+            Warning - 1 : Skipping Token attachedSymbol On Line 463
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - FT232RQ.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 131
+            Warning - 1 : Skipping Token layerContents On Line 142
+            Warning - 1 : Skipping Token layerContents On Line 148
+            Warning - 1 : Skipping Token layerContents On Line 157
+            Warning - 1 : Skipping Token layerContents On Line 166
+        EndSection
+
+        Section : Generating SCH Library - FT232RQ.SchLib
+        EndSection
+    EndSection
+EndSection

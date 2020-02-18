@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : RN41-I_RM.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\RN41-I_RM\RN41-I_RM.lia
+    Section : PCB Library - RN41-I_RM.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token RN41-I/RM On Line 194
+            Warning - 1 : Skipping Token attachedSymbol On Line 581
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [XCVR_RN42-I/RM][Primary] associated with PCAD Component [RN41-I/RM] has been renamed to PCB FootPrint [XCVR_RN42-I/RM_RN41-I/RM(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - RN41-I_RM.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 140
+            Warning - 1 : Skipping Token layerContents On Line 146
+            Warning - 1 : Skipping Token layerContents On Line 169
+        EndSection
+
+        Section : Generating SCH Library - RN41-I_RM.SchLib
+            Warning - 0 : PCAD Pattern Graphics [XCVR_RN42-I/RM][Primary] associated with PCAD Component [RN41-I/RM] has been renamed to PCB FootPrint [XCVR_RN42-I/RM_RN41-I/RM(Primary)].
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : APA102-2020_RGB.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\APA102-2020_RGB\APA102-2020_RGB.lia
+    Section : PCB Library - APA102-2020_RGB.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 3341 On Line 147
+            Warning - 1 : Skipping Token attachedSymbol On Line 254
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - APA102-2020_RGB.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 127
+            Warning - 1 : Skipping Token layerContents On Line 136
+            Warning - 1 : Skipping Token layerContents On Line 139
+        EndSection
+
+        Section : Generating SCH Library - APA102-2020_RGB.SchLib
+        EndSection
+    EndSection
+EndSection

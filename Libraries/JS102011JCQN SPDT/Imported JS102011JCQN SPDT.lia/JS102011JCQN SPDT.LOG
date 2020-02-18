@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : JS102011JCQN SPDT.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\JS102011JCQN SPDT\JS102011JCQN SPDT.lia
+    Section : PCB Library - JS102011JCQN SPDT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token JS102011JCQN On Line 121
+            Warning - 1 : Skipping Token attachedSymbol On Line 190
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - JS102011JCQN SPDT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 111
+        EndSection
+
+        Section : Generating SCH Library - JS102011JCQN SPDT.SchLib
+        EndSection
+    EndSection
+EndSection

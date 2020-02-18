@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : Shrouded_Header_2x5_127.LibPkg
+
+Section : C:\Users\Public\Documents\Altium\AD18\Library\Shrouded_Header_2x5_127\Shrouded_Header_2x5_127.lia
+    Section : PCB Library - Shrouded_Header_2x5_127.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 109
+            Warning - 1 : Skipping Token isVisible On Line 110
+            Warning - 1 : Skipping Token SHF-105-01-X-D-TH On Line 130
+            Warning - 1 : Skipping Token attachedSymbol On Line 257
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - Shrouded_Header_2x5_127.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 112
+        EndSection
+
+        Section : Generating SCH Library - Shrouded_Header_2x5_127.SchLib
+        EndSection
+    EndSection
+EndSection

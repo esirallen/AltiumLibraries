@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : CJS-1200TA.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\CJS-1200TA\CJS-1200TA.lia
+    Section : PCB Library - CJS-1200TA.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CJS-1200TA On Line 131
+            Warning - 1 : Skipping Token attachedSymbol On Line 198
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - CJS-1200TA.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 119
+        EndSection
+
+        Section : Generating SCH Library - CJS-1200TA.SchLib
+        EndSection
+    EndSection
+EndSection

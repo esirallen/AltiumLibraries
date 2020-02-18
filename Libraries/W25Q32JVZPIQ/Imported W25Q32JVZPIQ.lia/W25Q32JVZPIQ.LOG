@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : W25Q32JVZPIQ.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\W25Q32JVZPIQ\W25Q32JVZPIQ.lia
+    Section : PCB Library - W25Q32JVZPIQ.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token W25Q32JVZPIQ On Line 144
+            Warning - 1 : Skipping Token attachedSymbol On Line 261
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - W25Q32JVZPIQ.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 112
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 126
+            Warning - 1 : Skipping Token layerContents On Line 134
+        EndSection
+
+        Section : Generating SCH Library - W25Q32JVZPIQ.SchLib
+        EndSection
+    EndSection
+EndSection

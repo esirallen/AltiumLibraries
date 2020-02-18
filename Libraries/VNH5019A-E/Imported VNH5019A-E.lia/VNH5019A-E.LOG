@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : VNH5019A-E.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\VNH5019A-E\VNH5019A-E.lia
+    Section : PCB Library - VNH5019A-E.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token VNH5019A-E On Line 198
+            Warning - 1 : Skipping Token attachedSymbol On Line 525
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - VNH5019A-E.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 143
+            Warning - 1 : Skipping Token layerContents On Line 149
+            Warning - 1 : Skipping Token layerContents On Line 169
+            Warning - 1 : Skipping Token layerContents On Line 178
+            Warning - 1 : Skipping Token layerContents On Line 187
+        EndSection
+
+        Section : Generating SCH Library - VNH5019A-E.SchLib
+        EndSection
+    EndSection
+EndSection

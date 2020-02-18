@@ -1,0 +1,50 @@
+PCAD Importer Log
+Project : M20-8890345.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\M20-8890345\M20-8890345.lia
+    Section : PCB Library - M20-8890345.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 143
+            Warning - 1 : Skipping Token isVisible On Line 144
+            Warning - 1 : Skipping Token isVisible On Line 332
+            Warning - 1 : Skipping Token isVisible On Line 333
+            Warning - 1 : Skipping Token isVisible On Line 334
+            Warning - 1 : Skipping Token isVisible On Line 335
+            Warning - 1 : Skipping Token isVisible On Line 336
+            Warning - 1 : Skipping Token isVisible On Line 337
+            Warning - 1 : Skipping Token isVisible On Line 338
+            Warning - 1 : Skipping Token isVisible On Line 339
+            Warning - 1 : Skipping Token isVisible On Line 529
+            Warning - 1 : Skipping Token isVisible On Line 530
+            Warning - 1 : Skipping Token isVisible On Line 531
+            Warning - 1 : Skipping Token isVisible On Line 532
+            Warning - 1 : Skipping Token isVisible On Line 533
+            Warning - 1 : Skipping Token isVisible On Line 534
+            Warning - 1 : Skipping Token isVisible On Line 535
+            Warning - 1 : Skipping Token isVisible On Line 536
+            Warning - 1 : Skipping Token SAMTEC-TSM-103-01-X-SHA On Line 542
+            Warning - 1 : Skipping Token attachedSymbol On Line 601
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - M20-8890345.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 138
+            Warning - 1 : Skipping Token layerContents On Line 146
+            Warning - 1 : Skipping Token layerContents On Line 343
+            Warning - 1 : Skipping Token isVisible On Line 576
+            Warning - 1 : Skipping Token isVisible On Line 578
+        EndSection
+
+        Section : Generating SCH Library - M20-8890345.SchLib
+        EndSection
+    EndSection
+EndSection

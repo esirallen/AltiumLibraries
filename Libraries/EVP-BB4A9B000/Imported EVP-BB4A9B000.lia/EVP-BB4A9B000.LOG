@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : EVP-BB4A9B000.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\EVP-BB4A9B000\EVP-BB4A9B000.lia
+    Section : PCB Library - EVP-BB4A9B000.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token EVP-BB2A9B000 On Line 156
+            Warning - 1 : Skipping Token attachedSymbol On Line 230
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [SW_EVP-BB2A9B000][Primary] associated with PCAD Component [EVP-BB2A9B000] has been renamed to PCB FootPrint [SW_EVP-BB2A9B000_EVP-BB2A9B000(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - EVP-BB4A9B000.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 122
+            Warning - 1 : Skipping Token layerContents On Line 126
+            Warning - 1 : Skipping Token layerContents On Line 140
+        EndSection
+
+        Section : Generating SCH Library - EVP-BB4A9B000.SchLib
+            Warning - 0 : PCAD Pattern Graphics [SW_EVP-BB2A9B000][Primary] associated with PCAD Component [EVP-BB2A9B000] has been renamed to PCB FootPrint [SW_EVP-BB2A9B000_EVP-BB2A9B000(Primary)].
+        EndSection
+    EndSection
+EndSection

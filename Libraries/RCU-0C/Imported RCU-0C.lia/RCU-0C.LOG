@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : RCU-0C.LibPkg
+
+Section : C:\Users\Public\Documents\Altium\AD18\Library\RCU-0C\RCU-0C.lia
+    Section : PCB Library - RCU-0C.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token RCU-0C On Line 109
+            Warning - 1 : Skipping Token attachedSymbol On Line 152
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - RCU-0C.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 87
+            Warning - 1 : Skipping Token layerContents On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 101
+        EndSection
+
+        Section : Generating SCH Library - RCU-0C.SchLib
+        EndSection
+    EndSection
+EndSection

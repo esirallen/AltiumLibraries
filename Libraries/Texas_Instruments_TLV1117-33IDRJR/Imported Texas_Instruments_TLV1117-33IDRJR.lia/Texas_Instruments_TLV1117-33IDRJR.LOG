@@ -1,0 +1,128 @@
+PCAD Importer Log
+Project : Texas_Instruments_TLV1117-33IDRJR.LibPkg
+
+Section : C:\Users\Public\Documents\Altium\AD18\Library\Texas_Instruments_TLV1117-33IDRJR\Texas_Instruments_TLV1117-33IDRJR.lia
+    Section : PCB Library - Texas_Instruments_TLV1117-33IDRJR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token poly On Line 323
+            Warning - 1 : Skipping Token poly On Line 331
+            Warning - 1 : Skipping Token poly On Line 339
+            Warning - 1 : Skipping Token poly On Line 347
+            Warning - 1 : Skipping Token poly On Line 355
+            Warning - 1 : Skipping Token poly On Line 363
+            Warning - 1 : Skipping Token poly On Line 371
+            Warning - 1 : Skipping Token poly On Line 379
+            Warning - 1 : Skipping Token poly On Line 387
+            Warning - 1 : Skipping Token poly On Line 395
+            Warning - 1 : Skipping Token poly On Line 403
+            Warning - 1 : Skipping Token poly On Line 411
+            Warning - 1 : Skipping Token poly On Line 419
+            Warning - 1 : Skipping Token poly On Line 427
+            Warning - 1 : Skipping Token poly On Line 435
+            Warning - 1 : Skipping Token poly On Line 443
+            Warning - 1 : Skipping Token poly On Line 451
+            Warning - 1 : Skipping Token poly On Line 462
+            Warning - 1 : Skipping Token poly On Line 470
+            Warning - 1 : Skipping Token poly On Line 484
+            Warning - 1 : Skipping Token poly On Line 492
+            Warning - 1 : Skipping Token poly On Line 506
+            Warning - 1 : Skipping Token poly On Line 514
+            Warning - 1 : Skipping Token poly On Line 525
+            Warning - 1 : Skipping Token poly On Line 533
+            Warning - 1 : Skipping Token poly On Line 541
+            Warning - 1 : Skipping Token poly On Line 555
+            Warning - 1 : Skipping Token poly On Line 575
+            Warning - 1 : Skipping Token poly On Line 595
+            Warning - 1 : Skipping Token poly On Line 609
+            Warning - 1 : Skipping Token poly On Line 617
+            Warning - 1 : Skipping Token poly On Line 628
+            Warning - 1 : Skipping Token poly On Line 642
+            Warning - 1 : Skipping Token poly On Line 656
+            Warning - 1 : Skipping Token poly On Line 667
+            Warning - 1 : Skipping Token poly On Line 675
+            Warning - 1 : Skipping Token poly On Line 687
+            Warning - 1 : Skipping Token poly On Line 699
+            Warning - 1 : Skipping Token poly On Line 711
+            Warning - 1 : Skipping Token TLV1117_DRJ_8 On Line 771
+            Warning - 1 : Skipping Token attachedSymbol On Line 872
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - Texas_Instruments_TLV1117-33IDRJR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 10
+            Warning - 1 : Skipping Token padStyleDef On Line 20
+            Warning - 1 : Skipping Token multiLayer On Line 310
+            Warning - 1 : Skipping Token layerContents On Line 322
+            Warning - 1 : Skipping Token layerContents On Line 330
+            Warning - 1 : Skipping Token layerContents On Line 338
+            Warning - 1 : Skipping Token layerContents On Line 346
+            Warning - 1 : Skipping Token layerContents On Line 354
+            Warning - 1 : Skipping Token layerContents On Line 362
+            Warning - 1 : Skipping Token layerContents On Line 370
+            Warning - 1 : Skipping Token layerContents On Line 378
+            Warning - 1 : Skipping Token layerContents On Line 386
+            Warning - 1 : Skipping Token layerContents On Line 394
+            Warning - 1 : Skipping Token layerContents On Line 402
+            Warning - 1 : Skipping Token layerContents On Line 410
+            Warning - 1 : Skipping Token layerContents On Line 418
+            Warning - 1 : Skipping Token layerContents On Line 426
+            Warning - 1 : Skipping Token layerContents On Line 434
+            Warning - 1 : Skipping Token layerContents On Line 442
+            Warning - 1 : Skipping Token layerContents On Line 450
+            Warning - 1 : Skipping Token layerContents On Line 461
+            Warning - 1 : Skipping Token layerContents On Line 469
+            Warning - 1 : Skipping Token layerContents On Line 483
+            Warning - 1 : Skipping Token layerContents On Line 491
+            Warning - 1 : Skipping Token layerContents On Line 505
+            Warning - 1 : Skipping Token layerContents On Line 513
+            Warning - 1 : Skipping Token layerContents On Line 524
+            Warning - 1 : Skipping Token layerContents On Line 532
+            Warning - 1 : Skipping Token layerContents On Line 540
+            Warning - 1 : Skipping Token layerContents On Line 554
+            Warning - 1 : Skipping Token layerContents On Line 574
+            Warning - 1 : Skipping Token layerContents On Line 594
+            Warning - 1 : Skipping Token layerContents On Line 608
+            Warning - 1 : Skipping Token layerContents On Line 616
+            Warning - 1 : Skipping Token layerContents On Line 627
+            Warning - 1 : Skipping Token layerContents On Line 641
+            Warning - 1 : Skipping Token layerContents On Line 655
+            Warning - 1 : Skipping Token layerContents On Line 666
+            Warning - 1 : Skipping Token layerContents On Line 674
+            Warning - 1 : Skipping Token layerContents On Line 686
+            Warning - 1 : Skipping Token layerContents On Line 698
+            Warning - 1 : Skipping Token layerContents On Line 710
+            Warning - 1 : Skipping Token layerContents On Line 722
+            Warning - 1 : Skipping Token layerContents On Line 725
+            Warning - 1 : Skipping Token layerContents On Line 728
+            Warning - 1 : Skipping Token layerContents On Line 731
+            Warning - 1 : Skipping Token layerContents On Line 734
+            Warning - 1 : Skipping Token layerContents On Line 737
+            Warning - 1 : Skipping Token layerContents On Line 740
+            Warning - 1 : Skipping Token layerContents On Line 743
+            Warning - 1 : Skipping Token layerContents On Line 746
+            Warning - 1 : Skipping Token layerContents On Line 749
+            Warning - 1 : Skipping Token layerContents On Line 752
+            Warning - 1 : Skipping Token layerContents On Line 755
+            Warning - 1 : Skipping Token layerContents On Line 758
+            Warning - 1 : Skipping Token layerContents On Line 761
+            Warning - 1 : Skipping Token layerContents On Line 764
+            Warning - 1 : Skipping Token layerContents On Line 767
+            Warning - 1 : Skipping Token defaultPinDes On Line 779
+            Warning - 1 : Skipping Token defaultPinDes On Line 787
+            Warning - 1 : Skipping Token defaultPinDes On Line 795
+            Warning - 1 : Skipping Token defaultPinDes On Line 803
+            Warning - 1 : Skipping Token defaultPinDes On Line 811
+            Warning - 1 : Skipping Token defaultPinDes On Line 819
+            Warning - 1 : Skipping Token defaultPinDes On Line 827
+            Warning - 1 : Skipping Token defaultPinDes On Line 835
+            Warning - 1 : Skipping Token defaultPinDes On Line 843
+        EndSection
+
+        Section : Generating SCH Library - Texas_Instruments_TLV1117-33IDRJR.SchLib
+        EndSection
+    EndSection
+EndSection

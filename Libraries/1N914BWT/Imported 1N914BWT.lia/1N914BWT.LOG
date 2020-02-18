@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : 1N914BWT.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\1N914BWT\1N914BWT.lia
+    Section : PCB Library - 1N914BWT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1N4148WT On Line 126
+            Warning - 1 : Skipping Token attachedSymbol On Line 174
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 1N914BWT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 105
+            Warning - 1 : Skipping Token layerContents On Line 116
+        EndSection
+
+        Section : Generating SCH Library - 1N914BWT.SchLib
+        EndSection
+    EndSection
+EndSection

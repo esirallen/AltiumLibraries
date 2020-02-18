@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : LQFP-100.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\LQFP-100\LQFP-100.lia
+    Section : PCB Library - LQFP-100.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token EFM32GG980F512G-E-QFP100R On Line 223
+            Warning - 1 : Skipping Token attachedSymbol On Line 1250
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LQFP-100.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 186
+            Warning - 1 : Skipping Token layerContents On Line 197
+            Warning - 1 : Skipping Token layerContents On Line 203
+            Warning - 1 : Skipping Token layerContents On Line 212
+        EndSection
+
+        Section : Generating SCH Library - LQFP-100.SchLib
+        EndSection
+    EndSection
+EndSection

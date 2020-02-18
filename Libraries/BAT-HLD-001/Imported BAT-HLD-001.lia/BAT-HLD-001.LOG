@@ -1,0 +1,34 @@
+PCAD Importer Log
+Project : BAT-HLD-001.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\BAT-HLD-001\BAT-HLD-001.lia
+    Section : PCB Library - BAT-HLD-001.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token  On Line 97
+            Warning - 1 : Skipping Token  On Line 98
+            Warning - 1 : Skipping Token BAT-HLD-001 On Line 103
+            Warning - 1 : Skipping Token attachedSymbol On Line 157
+            Warning - 1 : Skipping Token 1 On Line 162
+            Warning - 1 : Skipping Token 2 On Line 164
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*BAT-HLD-001][Primary] associated with PCAD Component [BAT-HLD-001] has been renamed to PCB FootPrint [*BAT-HLD-001_BAT-HLD-001(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - BAT-HLD-001.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token isVisible On Line 134
+            Warning - 1 : Skipping Token 1 On Line 162
+            Warning - 1 : Skipping Token 2 On Line 164
+        EndSection
+
+        Section : Generating SCH Library - BAT-HLD-001.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*BAT-HLD-001][Primary] associated with PCAD Component [BAT-HLD-001] has been renamed to PCB FootPrint [*BAT-HLD-001_BAT-HLD-001(Primary)].
+        EndSection
+    EndSection
+EndSection

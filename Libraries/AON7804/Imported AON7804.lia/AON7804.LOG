@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : AON7804.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\AON7804\AON7804.lia
+    Section : PCB Library - AON7804.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token N-MOSFET-G2DS-D On Line 128
+            Warning - 1 : Skipping Token attachedSymbol On Line 228
+            Warning - 1 : Skipping Token attachedSymbol On Line 229
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [DFN3X3][Primary] associated with PCAD Component [AON7804] has been renamed to PCB FootPrint [DFN3X3_AON7804(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - AON7804.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token isVisible On Line 200
+        EndSection
+
+        Section : Generating SCH Library - AON7804.SchLib
+            Warning - 0 : PCAD Pattern Graphics [DFN3X3][Primary] associated with PCAD Component [AON7804] has been renamed to PCB FootPrint [DFN3X3_AON7804(Primary)].
+        EndSection
+    EndSection
+EndSection

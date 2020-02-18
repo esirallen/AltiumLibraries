@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : MAX14759ETAT.LibPkg
+
+Section : C:\GitHub\AltiumLibraries\Libraries\MAX14759ETAT\MAX14759ETAT.lia
+    Section : PCB Library - MAX14759ETAT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MAX14759ETAT On Line 143
+            Warning - 1 : Skipping Token attachedSymbol On Line 250
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MAX14759ETAT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 126
+            Warning - 1 : Skipping Token layerContents On Line 137
+        EndSection
+
+        Section : Generating SCH Library - MAX14759ETAT.SchLib
+        EndSection
+    EndSection
+EndSection
